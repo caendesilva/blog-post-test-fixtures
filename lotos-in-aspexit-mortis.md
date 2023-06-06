@@ -1,10 +1,8 @@
 ---
 title: "Lotos in aspexit mortis"
-author.username: "nmacfayden2"
-author.name: "Nevile MacFayden"
-published: "2019-12-31 11:30"
-updated: "2020-10-25 11:29"
-tags: "perspiciatis"
+author: "nmacfayden2"
+date: "2019-12-31 11:30"
+category: "perspiciatis"
 image: "https://picsum.photos/seed/ut-temporibus-incidunt-ea.png/960/640"
 description: "Nesciunt qui at vel explicabo. Perferendis in totam qui sapiente dolore doloremque odio corporis."
 ---

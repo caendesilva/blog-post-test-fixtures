@@ -1,10 +1,8 @@
 ---
 title: "Silva gratia renovamine formosi"
-author.username: "nmacfayden2"
-author.name: "Nevile MacFayden"
-published: "2021-11-17 12:00"
-updated: "2021-11-17 12:00"
-tags: "deleniti, corporis, minus"
+author: "Nevile MacFayden"
+date: "2021-11-17 12:00"
+category: "deleniti"
 image: "https://picsum.photos/seed/qui-tempore-laborum.jpg/960/640"
 description: "Corporis et enim nemo blanditiis. Sint possimus ut quos ut magni voluptatem ut. Quae dolores ipsum voluptate rerum."
 ---

@@ -1,9 +1,7 @@
 ---
 title: "Vulnere sceleris torva bovem si inexpugnabile dominos"
-author.username: "aenrietto1"
-author.name: "Aurelie Enrietto"
-published: "2020-02-28 12:33"
-updated: "2020-03-23 15:51"
+author: "Aurelie Enrietto"
+date: "2020-02-28 12:33"
 image: "https://picsum.photos/seed/tempora-consectetur.jpg/960/640"
 description: "Assumenda est rerum in itaque voluptatem perspiciatis. Facere ratione maxime eaque rem."
 ---

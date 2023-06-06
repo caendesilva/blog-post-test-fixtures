@@ -1,9 +1,7 @@
 ---
 title: "Reddita lucifer gaudet imitatus"
-author.username: "nmacfayden2"
-author.name: "Nevile MacFayden"
-published: "2021-11-27 16:00"
-updated: "2022-01-28 13:53"
+author: "Nevile MacFayden"
+date: "2021-11-27 16:00"
 image: "https://picsum.photos/seed/atque-et-omnis.png/960/640"
 description: "Enim possimus accusamus ipsum consequuntur. Rerum velit ut necessitatibus earum dignissimos voluptatibus aut."
 ---
